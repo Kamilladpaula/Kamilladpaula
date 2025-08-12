@@ -5,9 +5,8 @@
 🌱 Aprendendo e praticando **Python**, **JavaScript**, **HTML/CSS** e **Git/GitHub**.  
 
 
-## 🚀 Projetos em Destaque
-- [Sistema de Cadastro de Produtores Rurais](https://github.com/Kamilladpaula/sistema-cadastro-produtores) *(Projeto acadêmico)*
-- [Automação de Relatórios Agrícolas](https://github.com/Kamilladpaula/automacao-relatorios)
+## 🚀 Projeto
+- [Trilha das Sementes](https://github.com/Kamilladpaula/Trilha-das-Sementes) *(Projeto acadêmico)*
 
 ###
 
