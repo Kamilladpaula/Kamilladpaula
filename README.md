@@ -2,7 +2,7 @@
 
 🎓 Formada em Gestão do Agronegócio (UnB) e atualmente estudante de **Análise e Desenvolvimento de Sistemas**.  
 💻 Em transição de carreira para tecnologia, unindo minha experiência em gestão e meu interesse por **desenvolvimento de soluções digitais**.  
-🌱 Aprendendo e praticando **Python**, **JavaScript**, **HTML/CSS** e **Git/GitHub**.  
+🌱 Aprendendo e praticando **Python**, **JavaScript** e **HTML/CSS**.  
 
 
 ## 🚀 Projeto
